@@ -1,2 +1,1 @@
-# hello-world2
-first repository
+making some changes to the readme file
